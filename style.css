@@ -5,23 +5,23 @@
 
 
 
-.logo {
+/* .logo {
     width:600px;
     height:25px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 14px; 
     display:block;
-}
+} */
 
-/* .col-md-8 {
+.col-md-8 {
     font-family: 'Times New Roman', Times, serif;
     margin: 20;
     padding: 10;
     width: 450px;
-    background-color: lightblue;
+    /* background-color: lightblue; */
     color:black;
     height:360px;
-}   */
+}  
   
   
   .title {
