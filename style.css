@@ -1,0 +1,64 @@
+.photo {
+    width:140px;
+    height:140px;
+}
+
+
+
+.logo {
+    width:600px;
+    height:25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px; 
+    display:block;
+}
+
+/* .col-md-8 {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20;
+    padding: 10;
+    width: 450px;
+    background-color: lightblue;
+    color:black;
+    height:360px;
+}   */
+  
+  
+  .title {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20;
+    padding: 10;
+    width: 450px;
+    
+    color:lightseagreen;  
+  }
+  .navbar-brand {
+    font-family: 'Times New Roman', Times, serif;
+    color:red;
+    margin: 20;
+    padding: 10;
+    width: 245px;
+}
+.mx-auto {
+    display: block;
+    margin-left: 30%;
+    margin-right: 20%;
+    width: 50%;
+  }
+.header {
+  width:100%;
+  text-align:center;
+  color:lightskyblue
+  }
+  .chart {
+    color:lightseagreen;
+    text-align:center;
+    
+    }
+.navbar {
+  background-color:paleturquoise;
+}    
+
+  
+    
+
