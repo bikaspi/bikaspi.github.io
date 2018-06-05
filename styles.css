@@ -1,0 +1,13 @@
+.jumbotron {
+    background-image: url("ufo.jpg");
+    background-repeat:no-repeat;
+    background-position: right top;
+    background-color: #202b47;
+
+}
+
+.jumbotron h1 {
+    color: white;
+    text-transform: uppercase;
+    margin-left:15%;
+}
